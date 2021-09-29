@@ -1,0 +1,22 @@
+{
+  "name": "explorers",
+  "version": "1.0.0",
+  "description": "Learn how to use serverless functions in less than 30 minutes!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hh-christopher-betlejemski/explorers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hh-christopher-betlejemski/explorers/issues"
+  },
+  "homepage": "https://github.com/hh-christopher-betlejemski/explorers#readme",
+  "devDependencies": {
+    "node-fetch": "^3.0.0"
+  }
+}
